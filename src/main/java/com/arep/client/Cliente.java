@@ -35,6 +35,7 @@ public class Cliente {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.err.println("Ocurrio un error al intentar realizar la petición POST al servidor");
 		}
 	}
 }
