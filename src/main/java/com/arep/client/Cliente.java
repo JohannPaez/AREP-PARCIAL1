@@ -9,6 +9,11 @@ import java.net.URL;
 
 public class Cliente {
 	
+	
+	/**
+	 * Cliente encargado de realizar una petición POST al servidor de heroku y muestra la infomación enviada por el servidor
+	 * @param args Son los parametros al momento de ejecutar
+	 */
 	public static void main(String[] args) {
 		try {
 			URL url = new URL("https://guarded-mountain-62231.herokuapp.com/operation");
