@@ -35,7 +35,7 @@
 [JUnit](https://junit.org/junit5/) Framework para pruebas en JAVA.
 
 ## Autor
-Johann Sebastian Páez Campos - Trabajo Programación AREP 03/09/2020
+Johann Sebastian Páez Campos - PARCIAL 1 - AREP 04/09/2020
 
 ## Licencia
 Este programa es de uso libre, puede ser usado por cualquier persona.
