@@ -18,7 +18,7 @@
  ## Comandos 
   Para compilar y correr las pruebas: ```mvn package```
   
-  Para ejecutar y utilizar el programa: ```mvn exec:java -Dexec.mainClass="com.arep.client.Cliente""```
+  Para ejecutar y utilizar el programa: ```mvn exec:java -Dexec.mainClass="com.arep.client.Cliente"```
 
   Para ejecutar las pruebas: ```mvn test```
   
